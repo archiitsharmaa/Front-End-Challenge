@@ -1,10 +1,14 @@
 
-**Welcome to the First Challenge of CodeWithCoffe. This is a chance for all those who are interested about web technologies and want to show case their skills.
-It's important to note that this is by no means a test. Our team here  just wants to get a sense of what you can do with what's given.**
+**Welcome to the First Challenge of CodeWithCoffe: Frontend Challange.** 
+
+This is a chance for all those who are interested about web technologies and want to just start or show case their skills.
+
+It's important to note that this is by no means a test. Our team here  just wants to get a sense of what you can do with what's given. Remember you are just helping **Aki***
 
 **Instructions for Submission**
 
 As developers we rely heavily on tools like Github.
+
 * Please fork this repository and use your clone for developing the challenge. 
 * When complete, submit a pull request with your changes for our team to review.
 * Please maintain a proper hierarchical order
