@@ -13,13 +13,13 @@ You can use it as boilerplate for further developing. Don't forget to add a READ
 
 ```
 /front-end-challange/
-├─┬ Problem Statement
-│ ├─── hello-frontend
+├─┬ Problem Statement/
+│ ├─── hello-frontend/
 │ │   ├──── Readme.md
 │ ├── README.md
 │ └── …
-|─┬ Submissions
-| |   ├── [Submission Directories here]
+|─┬ Submissions/
+| |   ├── [Submission Directories here]/
 | |   ├── Guidelines.md
 | ├── Readme.md
 | └── …
