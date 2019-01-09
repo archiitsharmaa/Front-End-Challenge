@@ -75,5 +75,13 @@ Refrences:
 
 https://skillvalue.com/en/quizzes/front-end/css-beginner-level-2
 
+**JavaScript**
+
+1.**Reading Material**:https://www.w3schools.com/js/default.asp
+
+2.**Video Tutorial**:https://www.youtube.com/playlist?list=PL46F0A159EC02DF82
+
+3.**Javascript DOM Tutorial**:https://www.youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V[Important]
+
 
 
