@@ -62,4 +62,21 @@ Add Meta Tags     | HTML  | NA | Add few meta tags for some info.
 Logo & Heading | HTML | Center aligned | You should add Codewithcoffee Logo and a heading for the same.
 Background Color | CSS | Dark colour | Keep dark background for the app.
 Font | CSS | `font-family: Helvetica, arial, sans-serif;` | Keep appropriate font size.
+
+### Level 3 - Javascript Basics
+
+Nice work with the app till now, but the app still lacks functionality. So now let's add some basic functions to the "*ToDo App*". Now, Aki has to figure out what functionalities he needs in the app. After a lot of brainstorming, Aki has decided that his "*ToDo App*" must have the following capabilities:
+1. _He can add an item to the list._
+2. _Mark the items as Done._
+3. _Remove an item from the list._
+
+**Open the scripts.js file and add the following**:
+1. Write code to create a new list item on clicking the add button.
+
+2. Write a function to strikethrough the item when clicked.
+(_*hint*: use <del> html tag_)
+
+3. Append a close button to all the list items.
+
+4. Write a function to remove the item when the close button is clicked.
 Images | Links | Add images as links | Do not add images in root dir
