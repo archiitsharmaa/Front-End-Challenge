@@ -73,10 +73,9 @@ Nice work with the app till now, but the app still lacks functionality. So now l
 **Open the scripts.js file and add the following**:
 1. Write code to create a new list item on clicking the add button.
 
-2. Write a function to strikethrough the item when clicked.
-(_*hint*: use <del> html tag_)
+2. Write a function to strikethrough the item when clicked.<br>
+(_*hint*: use \<del\> html tag_)
 
 3. Append a close button to all the list items.
 
 4. Write a function to remove the item when the close button is clicked.
-Images | Links | Add images as links | Do not add images in root dir
